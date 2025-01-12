@@ -1,6 +1,6 @@
 # Black-Litterman-Implied-Covariance
 
-This project focuses on constructing the covariance matrix of stock returns for nearly 10,000 stocks. This project does two things:
+This project focuses on constructing the implied covariance matrix of stock returns for nearly 10,000 stocks. This project does two things:
 - Speeds up the Black Litterman process by allowing for less computationally expensive inversion of the covariance matrix, which is required for the model
 - Allows for additional detailed analysis of stocks and industries (discussed below)
 
