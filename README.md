@@ -20,7 +20,8 @@ Stocks are also subdivided into industries using SIC and Permno code mappings. M
 ### Part 2: Factor Regression, Matrix Construction, and Visualization
 This part constructs the implied covariance matrix, using factor regression modelling among other components. Full description of the process is shown in the Jupyter Notebook. 
 
-This section also includes visualizations of the resulting covariance matrices. 
+This section also includes visualizations of the resulting covariance matrices, but those cells are currently commented out to reduce file size. 
+
 **Note:** The visualizations of covariance matrices have been expanded into a separate project, which is currently being developed into a website. You can check out the separate project here: [Heatmap Website](https://github.com/samueldecornez62/Heatmap-Website).
 
 ## Files
