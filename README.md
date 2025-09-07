@@ -1,3 +1,15 @@
+<div align="center">
+  <img src="hero.png" alt="Monte Carlo simulation of index returns" width="820">
+</div>
+
+*Pipeline constructing Black–Litterman implied covariance for ~9,800 equities; includes factor regressions and Monte Carlo simulations.*
+
+---
+
+
+
+
+
 # Black-Litterman-Implied-Covariance
 
 This project focuses on constructing the implied covariance matrix of stock returns for nearly 10,000 stocks. This project does two things:
